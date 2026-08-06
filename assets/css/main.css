@@ -1714,10 +1714,6 @@ input, select, textarea {
 
 /* LBG Additions */
 
- img.main_logo {
-	min-height: 10vw;
-	max-height: 20vh;
- }
 
  @media screen and (max-width: 480px) {
  	img.main_logo {
