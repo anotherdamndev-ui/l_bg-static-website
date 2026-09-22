@@ -1781,7 +1781,7 @@ img.bottom_backround_logo {
 
 img.main_logo {
     min-height: unset;
-    max-height: clamp(3.5rem, 14vh, 22vh);
+    max-height: clamp(9.5rem, 16.8vh, 22vh);
 }
 
 #wrapper {
